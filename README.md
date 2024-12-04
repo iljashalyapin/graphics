@@ -8,7 +8,8 @@
 
 - Hand clock:
 
-  ![image](https://github.com/user-attachments/assets/f57c4948-1ad7-4cf3-9ad1-9e18b1b7ae45)
+  ![image](https://github.com/user-attachments/assets/63058424-2fba-4824-9262-382056462f41)
+
 
 - Brownian motion:
 
