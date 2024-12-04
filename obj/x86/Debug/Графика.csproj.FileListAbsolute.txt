@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Графика\Графика\bin\Debug\Графика.exe
+C:\Users\User\Documents\Графика\Графика\bin\Debug\Графика.pdb
+C:\Users\User\Documents\Графика\Графика\obj\x86\Debug\Графика.Form1.resources
+C:\Users\User\Documents\Графика\Графика\obj\x86\Debug\Графика.Properties.Resources.resources
+C:\Users\User\Documents\Графика\Графика\obj\x86\Debug\Графика.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Графика\Графика\obj\x86\Debug\Графика.exe
+C:\Users\User\Documents\Графика\Графика\obj\x86\Debug\Графика.pdb
+C:\Users\User\Documents\Графика\Графика\obj\x86\Debug\Графика.csprojResolveAssemblyReference.cache
